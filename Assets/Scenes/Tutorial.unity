@@ -7700,7 +7700,7 @@ MonoBehaviour:
     - character:
         name: Tono
         icon: {fileID: 21300000, guid: 1515c6ca51220214e8fa37415a94d8e1, type: 3}
-      line: Follow the Tutorial and enjoy the role
+      line: Follow the Tutorial and enjoy the game
 --- !u!61 &1340702108
 BoxCollider2D:
   m_ObjectHideFlags: 0
