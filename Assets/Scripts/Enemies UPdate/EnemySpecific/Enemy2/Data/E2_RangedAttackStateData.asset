@@ -14,6 +14,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   projectile: {fileID: 1675787004027433855, guid: cc84b05fe2df52c48a2d20f7d1d9ce14,
     type: 3}
-  projectileDamage: 10
-  projectileSpeed: 12
-  projectileTravelDistance: 8
+  projectileDamage: 15
+  projectileSpeed: 50
+  projectileTravelDistance: 9
