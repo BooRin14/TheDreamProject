@@ -72,6 +72,12 @@ public class DialogueManager : MonoBehaviour
         }
     }
 
+    public void SkipDialogue()
+    {
+        isDialogueActive = false;
+        animator.Play("hide");
+    }
+
     void EndDialogue()
     {
         isDialogueActive = false;
